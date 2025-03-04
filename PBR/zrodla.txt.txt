@@ -1,0 +1,25 @@
+Kryteria:
+-Inżynieria oprogramowania / data science
+-Możliwość reporodukcji (dostępność do danych, kodu, etc.)
+-max 2023 z prestiżowego czasopisma, konferencji, etc.
+
+W prezce:
+-dla czego ta praca powinna być bazą
+-dla czego spełnia kryteria
+-rozwiązania konkurencyjne
+-wstępne pomysły na wkład autorski
+
+Do wyłuskania z tekstów:
+-czy spełnia kryteria i dla czego
+-konkurencje do tej prezki
+
+Hasła kluczowe:
+testing, predictive, learning, behavior driven, e2e
+
+testing AND testing OR predictive OR e2e OR "end to end"  OR behavior driven OR AI
+
+kandydaci:
+
+
+
+
